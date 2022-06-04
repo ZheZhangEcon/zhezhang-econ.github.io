@@ -8,8 +8,8 @@ layout: default
 My research interest is health economics, development economics, and environmental economics.
 
 ## Working papers
-- Information Provision, Patient Sorting, and Healthcare Quality (with Changcheng Song, Nan Yang and Junjian Yi), under review at *AEJ: Economic Policy*.
-- The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), under review at *Journal of Comparative Economics*.
+- [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi), under review at *AEJ: Economic Policy*.
+- [The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China](https://www.researchgate.net/publication/359391894_The_Short-and_Long-Run_Effects_of_Medical_Malpractice_Lawsuits_on_Medical_Spending_and_Hospital_Operations_in_China), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), under review at *Journal of Comparative Economics*.
 - Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China (with Tingting Xie), under review at *Journal of Environmental Economics and Management*.
 - [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games) (with Jiawei Mo and Zenan Wu), under review at *Economic Journal*.
 - [Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities](https://www.researchgate.net/publication/360016565_Health_Benefits_from_Improved_Air_Quality_Evidence_from_the_Pollution_Regulations_in_China's_226_Cities) (with Tingting Xie and Yong Wang), 1st round R\&R at *Environmental and Resource Economics*.
