@@ -1,15 +1,17 @@
 name: YUAN Ye
 description: Personal website
 menu:
- - page: About
+ - page: About me
    url: /about
- - page: Papers
+ - page: Research
    url: /papers
    links:
     - title: Working papers
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
+    - title: Conference and Seminar
+      url: "#conference-seminar"
  - page: Curriculum Vitae
    url: "https://yuanye-econ.github.io/research/CV-YuanYe-20220510.pdf"
  - page: Teaching
