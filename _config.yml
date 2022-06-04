@@ -10,13 +10,13 @@ menu:
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
-    - title: Conference and Seminar
-      url: "#conference-seminar"
  - page: Curriculum Vitae
    url: "https://yuanye-econ.github.io/research/CV-YuanYe-20220510.pdf"
  - page: Teaching
    url: /teaching
-menu_external:
+ - page: Conference and Seminar
+   url: /seminar
+ menu_external:
  - title: PKU Scholar Page
    url: "http://scholar.pku.edu.cn/yuanye-econ/"
  - title: Research Gate
