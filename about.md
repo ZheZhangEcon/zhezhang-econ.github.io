@@ -14,6 +14,6 @@ My research interest includes health economics, development economics, and envir
 
 My current research projects include analyzing the effect of information provision on hospital productivity and patient health; studying the driving factors of individual's health and healthcare choices; exploring the socialeconomic factors of mental health and its effect on household outcomes; quantifying the effect of education on the quality of life; uncovering the channels and consequences of hospital competition in China; and evaluating the intended and unintended consequences of environmental regulations in China.
 
-My latest CV is available <a href="https://yuanye-econ.github.io/research/CV-YuanYe - 20220510.pdf">here</a>.
+My latest CV is available <a href="https://yuanye-econ.github.io/research/CV-YuanYe-20220510.pdf">here</a>.
 
 ![Researcher Portrait](research/photo-github-round2.jpg "YUAN Ye")
