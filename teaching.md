@@ -1,10 +1,27 @@
 ---
 title: "Teaching"
-summary: "About this page."
-date: 2016-04-02
+summary: "I teach empirical methods and topics related to development and health economics."
+date: 2022-06-05
 layout: default
 ---
 
-"Teaching" introductory paragraph.
+#Academic Year 2021/2022#
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+- Advanced Econometrics II, Peking University, Semester 2
+- Development Economics, Peking University, Semester 1
+
+#Academic Year 2020/2021#
+
+- Advanced Econometrics II, Peking University, Semester 2
+- Development Economics, Peking University, Semester 1
+
+#Academic Year 2019/2020#
+
+- Advanced Econometrics II, Peking University, Semester 2
+- Development Economics, Peking University, Semester 1
+
+#Academic Year 2018/2019#
+
+- International Finance I, National University of Singapore, Semester 1, Semester 2
+- Foundations for Econometrics, National University of Singapore, Semester 1, Semester 2
+- Introduction to Health Economics, National University of Singapore, Summer School
