@@ -1,6 +1,6 @@
 ---
 title: "Research"
-summary: "My research interest is health economics, development economics, and environmental economics."
+summary: "I work on topics of health economics, development economics, and environmental economics."
 date: 2022-06-05
 layout: default
 ---
@@ -18,10 +18,17 @@ activities in China (with Tingting Xie and Zhilong Qin), under review at *Journa
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), under review at *China Economic Review*.
 - Cost-effectiveness of medical migration for chronic kidney disease: A national study in China (with Yumeng Ao, Chao Yang, et al.), 1st round R\&R at *BMC Health Service*.
 
-## Published papers
+## Publications
 
 - Differential responses to market competition by private and public hospitals in China: a longitudinal analysis (with Junjian Yi, and Shaoyang Zhao), *The Lancet*, 2019 (394): S37.
 - The glorified mothers of sons: Evidence from sexcomposition and parental time allocation in rural China,
 (with Yi Fan, Junjian Yi, and Junsen Zhang), *Journal of Economic Behavior and Organization*, 2018 (145), 249-260.
 - The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China, (with Wei Ha, Junjian Yi, and Junsen Zhang), *China Economic Review*, 2016, Volume 37, pp 27-39.
 
+## Conferences and Seminars
+
+- The Asian Meeting of the Econometric Society (AMES 2022), June 2022, Shenzhen, China
+- AASLE 2021 Conference, December 2021, Beijing, China 
+- 14th iHEA World Congress on Health Economics, July 2021, Online
+- The Lancet-CAMS Health Summit, October 2019, Sichuan, China
+- 13th iHEA World Congress on Health Economics, July 2019, Basel, Switzerland
