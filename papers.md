@@ -20,8 +20,8 @@ activities in China (with Tingting Xie and Zhilong Qin), under review at *Journa
 
 ## Publications
 
-- Differential responses to market competition by private and public hospitals in China: a longitudinal analysis (with Junjian Yi, and Shaoyang Zhao), *The Lancet*, 2019 (394): S37.
+- Differential responses to market competition by private and public hospitals in China: a longitudinal analysis (with Junjian Yi, and Shaoyang Zhao), ***The Lancet***, 2019 (394): S37.
 - The glorified mothers of sons: Evidence from sexcomposition and parental time allocation in rural China,
-(with Yi Fan, Junjian Yi, and Junsen Zhang), *Journal of Economic Behavior and Organization*, 2018 (145), 249-260.
-- The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China, (with Wei Ha, Junjian Yi, and Junsen Zhang), *China Economic Review*, 2016, Volume 37, pp 27-39.
+(with Yi Fan, Junjian Yi, and Junsen Zhang), ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260.
+- The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China, (with Wei Ha, Junjian Yi, and Junsen Zhang), ***China Economic Review***, 2016, Volume 37, pp 27-39.
 
