@@ -17,9 +17,9 @@ menu:
  - page: Conference and Seminar
    url: /seminar
  menu_external:
- - title: PKU Scholar Page
+ - title: My PKU Scholar Page
    url: "http://scholar.pku.edu.cn/yuanye-econ/"
- - title: Research Gate
+ - title: My Research Gate Page
    url: "https://www.researchgate.net/profile/Ye-Yuan-139"
 mathjax: false
 markdown: kramdown
