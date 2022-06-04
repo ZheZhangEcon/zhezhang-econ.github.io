@@ -16,6 +16,8 @@ My research interest is health economics, development economics, and environment
 - [Go with the wind: Spatial impacts of environmental regulations on industrial activities in China](https://www.researchgate.net/publication/360926909_Go_with_the_Wind_Spatial_Impacts_of_Environmental_Regulations_on_Industrial_Activities_in_China), (with Tingting Xie and Zhilong Qin), under review at *Journal of Development Economics*.
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), under review at *China Economic Review*.
 - Cost-effectiveness of medical migration for chronic kidney disease: A national study in China (with Yumeng Ao, Chao Yang, et al.), 1st round R\&R at *BMC Health Service*.
+- <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.researchgate.net/publication/360926909_Go_with_the_Wind_Spatial_Impacts_of_Environmental_Regulations_on_Industrial_Activities_in_China">Go with the wind: Spatial impacts of environmental regulations on industrial activities in China</a> <br> with Tingting Xie and Zhilong Qin (<b>under review at *Journal of Development Economics* </b>) <button class="accordion">  Abstract	</button> <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> blablabla 
+</div></p>
 
 ## Publications
 
