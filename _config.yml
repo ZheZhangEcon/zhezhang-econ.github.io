@@ -1,9 +1,9 @@
-name: YUAN Ye
+name: YUAN Ye 
 description: Personal website
 menu:
  - page: About me
    url: /about
- - page: Research
+ - page: Research 
    url: /papers
    links:
     - title: Working papers
@@ -14,13 +14,13 @@ menu:
    url: "https://yuanye-econ.github.io/research/CV-YuanYe-20220510.pdf"
  - page: Teaching
    url: /teaching
- menu_external:
+menu_external:
  - title: My PKU Scholar Page
    url: "http://scholar.pku.edu.cn/yuanye-econ/"
- - title: My Research Gate Page
+ - title: My Research Gate
    url: "https://www.researchgate.net/profile/Ye-Yuan-139"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: yuanye-econ.github.io
+baseurl: 
 locale: en_GB
