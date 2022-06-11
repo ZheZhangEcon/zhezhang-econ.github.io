@@ -8,7 +8,7 @@ layout: default
 My research interest is health economics, development economics, and environmental economics.
 
 ## Working papers
-- [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi), under review at *AEJ: Economic Policy*.
+- [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi).
 - [The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China](https://www.researchgate.net/publication/359391894_The_Short-and_Long-Run_Effects_of_Medical_Malpractice_Lawsuits_on_Medical_Spending_and_Hospital_Operations_in_China), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), under review at *Journal of Comparative Economics*.
 - [Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China](https://www.researchgate.net/publication/358117741_The_Unintended_Effects_of_Environmental_Information_on_Mental_Health_Evidence_from_Pollution_Disclosure_in_China), (with Tingting Xie), under review at *Journal of Environmental Economics and Management*.
 - [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games) (with Jiawei Mo and Zenan Wu), under review at *Economic Journal*.
