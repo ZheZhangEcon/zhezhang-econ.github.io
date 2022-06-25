@@ -24,3 +24,10 @@ My research interest is health economics, development economics, and environment
 (with Yi Fan, Junjian Yi, and Junsen Zhang), ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260.
 - [The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China](https://www.sciencedirect.com/science/article/pii/S1043951X15001145), (with Wei Ha, Junjian Yi, and Junsen Zhang), ***China Economic Review***, 2016, Volume 37, pp 27-39.
 
+## Working in Progress
+
+- Project on intergenerational transmmission of mental health (with Xuekang Sha and Yajie Wang)
+- Project on Pandemic (with Litian Chen)
+- Project on Insurance and Chronic Disease (with Julie Shi and Wanyu Yang)
+- Project on Pollution (with Ruihao Zhao)
+- Project on Insurance and Income (with Zhenggang Wang)
