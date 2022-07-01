@@ -28,8 +28,8 @@ My research interest is health economics, development economics, and environment
 
 ## Working in Progress
 
-- Project on intergenerational transmmission of mental health (with Xuekang Sha and Yajie Wang)
+- Project on insurance and entrepreneurship (with Zhenggang Wang and Zenan Wu)
 - Project on insurance and chronic disease (with Julie Shi and Wanyu Yang)
 - Project on Pandemic and mental health (with Litian Chen)
 - Project on Pollution and quality of life (with Runhao Zhao)
-- Project on insurance and entrepreneurship (with Zhenggang Wang and Zenan Wu)
+- Project on intergenerational transmmission of mental health (with Xuekang Sha and Yajie Wang)
