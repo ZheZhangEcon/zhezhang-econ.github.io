@@ -8,7 +8,6 @@ I am an assistant professor at the School of Economics in Peking University. If 
 - Health economics
 - Development economics
 - Environmental economics
-- and all the interesting topics on China.
 
 ## Updates
 
