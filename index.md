@@ -1,6 +1,6 @@
 ---
 title: "Home"
-summary: "Brief Into and Updates."
+summary: "Brief Intro and Updates."
 date: 2021-06-05
 layout: default
 ---
@@ -13,7 +13,6 @@ I am an assistant professor at the School of Economics in Peking University. If 
 - Health economics
 - Development economics
 - Environmental economics
-- and all the interesting topics on China.
 
 ## Updates
 
