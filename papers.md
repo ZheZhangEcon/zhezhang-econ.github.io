@@ -8,13 +8,14 @@ layout: default
 My research interest is health economics, development economics, and environmental economics.
 
 ## Working papers
-### Health and Development
+#### Health and Development
 - [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi).
 - [The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China](https://www.researchgate.net/publication/359391894_The_Short-and_Long-Run_Effects_of_Medical_Malpractice_Lawsuits_on_Medical_Spending_and_Hospital_Operations_in_China), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao).
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang).
 - Medical risk sharing and grassroot entrepreneurship (with Zhenggang Wang and Zenan Wu).
 - Long shadow of pandemic: Impact of childhood SARS experience on adulthood mental health (with Litian Chen and Chao Yang).
-### Environmental
+
+#### Environmental
 - [Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China](https://www.researchgate.net/publication/358117741_The_Unintended_Effects_of_Environmental_Information_on_Mental_Health_Evidence_from_Pollution_Disclosure_in_China) 1st round R&R at ***JEEM***.
 - [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games) (with Jiawei Mo and Zenan Wu).
 - [Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities](https://www.researchgate.net/publication/360016565_Health_Benefits_from_Improved_Air_Quality_Evidence_from_the_Pollution_Regulations_in_China's_226_Cities), (with Yong Wang), 1st round R&R at ***Environmental and Resource Economics***.
