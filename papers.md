@@ -16,7 +16,8 @@ My research interest is health economics, development economics, and environment
 - [Go with the wind: Spatial impacts of environmental regulations on industrial activities in China](https://www.researchgate.net/publication/360926909_Go_with_the_Wind_Spatial_Impacts_of_Environmental_Regulations_on_Industrial_Activities_in_China), (with Zhilong Qin), under review
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), under review
 - Medical risk sharing and grassroot entrepreneurship, (with Zhenggang Wang and Zenan Wu).
-- Long shadow of pandemic: Impact of childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang).
+- [A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health
+](https://www.researchgate.net/publication/362646840_A_pandemic's_long_shadow_The_impact_of_early_childhood_SARS_experience_on_adulthood_mental_health), (with Litian Chen and Chao Yang).
 
 
 ## Published papers
