@@ -17,8 +17,7 @@ My research interest is health economics, development economics, and environment
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), under review.
 - [A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health
 ](https://www.researchgate.net/publication/362646840_A_pandemic's_long_shadow_The_impact_of_early_childhood_SARS_experience_on_adulthood_mental_health), (with Litian Chen and Chao Yang), under review.
-- Medical risk sharing and grassroot entrepreneurship, (with Zhenggang Wang and Zenan Wu).
-
+- Long-term Exposure to Fine Particulate Matters and Prevalence and Onset of Multiple Chronic Conditions, (with Runhao Zhao and Chong Liu)
 
 ## Published papers
 
@@ -31,4 +30,4 @@ My research interest is health economics, development economics, and environment
 ## Working in Progress
 
 - Project on insurance and chronic disease (with Julie Shi and Wanyu Yang)
-- Project on Pollution and quality of life (with Runhao Zhao)
+- Medical risk sharing and grassroot entrepreneurship, (with Zhenggang Wang and Zenan Wu).
