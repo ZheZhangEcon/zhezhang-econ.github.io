@@ -20,7 +20,7 @@ My research interest is health economics, development economics, and environment
 
 ## Published papers
 
-- [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-08266-x) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
+- [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
 - [Differential responses to market competition by private and public hospitals in China: a longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0140673619323736), (with Junjian Yi, and Shaoyang Zhao), ***The Lancet***, 2019 (394): S37.
 - [The glorified mothers of sons: Evidence from sexcomposition and parental time allocation in rural China](https://www.sciencedirect.com/science/article/pii/S0167268117303165),
 (with Yi Fan, Junjian Yi, and Junsen Zhang), ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260.
