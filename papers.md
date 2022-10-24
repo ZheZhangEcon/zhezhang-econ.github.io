@@ -28,6 +28,6 @@ My research interest is health economics, development economics, and environment
 
 ## Working in Progress
 
-- Long-term Exposure to Fine Particulate Matters and Prevalence and Onset of Multiple Chronic Conditions, (with Runhao Zhao and Chong Liu)
-- Medical risk sharing and grassroot entrepreneurship, (with Zhenggang Wang and Zenan Wu).
+- Long-term Exposure to Fine Particulate Matters and Multiple Chronic Conditions, (with Runhao Zhao and Chong Liu)
+- Medical risk sharing and grassroot entrepreneurship, (with Zhenggang Wang and Zenan Wu)
 - Project on insurance and chronic disease (with Julie Shi and Wanyu Yang)
