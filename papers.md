@@ -13,7 +13,7 @@ My research interest is health economics, development economics, and environment
 - [Go with the wind: Spatial impacts of environmental regulations on industrial activities in China](https://www.researchgate.net/publication/360926909_Go_with_the_Wind_Spatial_Impacts_of_Environmental_Regulations_on_Industrial_Activities_in_China), (with Zhilong Qin),  ***revise and resubmit***, ***Journal of Development Economics***.
 - [The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China](https://www.researchgate.net/publication/359391894_The_Short-and_Long-Run_Effects_of_Medical_Malpractice_Lawsuits_on_Medical_Spending_and_Hospital_Operations_in_China), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***revise and resubmit***, ***Journal of Comparative Economics***.
 - [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
-- [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
+- [Polluted games: Evidence from ESports contests](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), under review.
 - [A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health
 ](https://www.researchgate.net/publication/362646840_A_pandemic's_long_shadow_The_impact_of_early_childhood_SARS_experience_on_adulthood_mental_health), (with Litian Chen and Chao Yang), under review.
@@ -28,6 +28,7 @@ My research interest is health economics, development economics, and environment
 
 ## Working in Progress
 
-- Long-term Exposure to Fine Particulate Matters and Multiple Chronic Conditions, (with Runhao Zhao and Chong Liu)
-- Medical risk sharing and grassroot entrepreneurship, (with Zhenggang Wang and Zenan Wu)
-- Project on insurance and chronic disease (with Julie Shi and Wanyu Yang)
+- Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu)
+- We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu)
+- Pay more for less: Effect of targeted lower cost sharing on healthcare utilization and expenditure (with Julie Shi and Wanyu Yang)
+- Project on physician as patient
