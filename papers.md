@@ -18,6 +18,14 @@ My research interest is health economics, development economics, and environment
 - [A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health
 ](https://www.researchgate.net/publication/362646840_A_pandemic's_long_shadow_The_impact_of_early_childhood_SARS_experience_on_adulthood_mental_health), (with Litian Chen and Chao Yang), under review.
 
+
+## Working in Progress
+
+- Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu)
+- We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu)
+- Pay more for less: Effect of targeted lower cost sharing on healthcare utilization and expenditure (with Julie Shi and Wanyu Yang)
+
+
 ## Published papers
 
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
@@ -26,8 +34,4 @@ My research interest is health economics, development economics, and environment
 (with Yi Fan, Junjian Yi, and Junsen Zhang), ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260.
 - [The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China](https://www.sciencedirect.com/science/article/pii/S1043951X15001145), (with Wei Ha, Junjian Yi, and Junsen Zhang), ***China Economic Review***, 2016, Volume 37, pp 27-39.
 
-## Working in Progress
 
-- Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu)
-- We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu)
-- Pay more for less: Effect of targeted lower cost sharing on healthcare utilization and expenditure (with Julie Shi and Wanyu Yang)
