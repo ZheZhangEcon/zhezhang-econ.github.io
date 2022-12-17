@@ -12,11 +12,10 @@ My research interest is health economics, development economics, and environment
 - [Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities](https://www.researchgate.net/publication/360016565_Health_Benefits_from_Improved_Air_Quality_Evidence_from_the_Pollution_Regulations_in_China's_226_Cities), (with Yong Wang), ***revise and resubmit***, ***Environmental and Resource Economics***.
 - [Go with the wind: Spatial impacts of environmental regulations on industrial activities in China](https://www.researchgate.net/publication/360926909_Go_with_the_Wind_Spatial_Impacts_of_Environmental_Regulations_on_Industrial_Activities_in_China), (with Zhilong Qin),  ***revise and resubmit***, ***Journal of Development Economics***.
 - [The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China](https://www.researchgate.net/publication/359391894_The_Short-and_Long-Run_Effects_of_Medical_Malpractice_Lawsuits_on_Medical_Spending_and_Hospital_Operations_in_China), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***revise and resubmit***, ***Journal of Comparative Economics***.
+- The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), ***revise and resubmit***, ***China Economics Review***.
 - [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
 - [Polluted games: Evidence from ESports contests](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
-- The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), under review.
-- [A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health
-](https://www.researchgate.net/publication/362646840_A_pandemic's_long_shadow_The_impact_of_early_childhood_SARS_experience_on_adulthood_mental_health), (with Litian Chen and Chao Yang), under review.
+- A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
 
 
 ## Working in Progress
