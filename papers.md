@@ -14,7 +14,7 @@ My research interest is health economics, development economics, and environment
 - [The Short- and Long-Run Effects of Medical Malpractice Lawsuits on Medical Spending and Hospital Operations in China](https://www.researchgate.net/publication/359391894_The_Short-and_Long-Run_Effects_of_Medical_Malpractice_Lawsuits_on_Medical_Spending_and_Hospital_Operations_in_China), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***revise and resubmit***, ***Journal of Comparative Economics***.
 - The Consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), ***revise and resubmit***, ***China Economics Review***.
 - [Information Provision, Patient Sorting, and Healthcare Quality](https://www.researchgate.net/publication/358892851_Information_Provision_Patient_Sorting_and_Healthcare_Quality), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
-- [Polluted games: Evidence from ESports contests](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
+- [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
 - A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
 
 
