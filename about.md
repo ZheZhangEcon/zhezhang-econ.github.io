@@ -12,6 +12,6 @@ I graduated from the [Department of Economics](https://fass.nus.edu.sg/ecs/) at 
 
 My research interest includes health economics, development economics, and environmental economics.
 
-My latest CV is available <a href="https://yuanye-econ.github.io/research/CV-YuanYe.pdf">here</a>.
+Here is <a href="https://yuanye-econ.github.io/research/CV-YuanYe.pdf">my latest CV</a>.
 
 ![Researcher Portrait](research/photo-github-round2.jpg "YUAN Ye")
