@@ -8,7 +8,7 @@ layout: default
 My research interest is health economics, development economics, and environmental economics.
 
 ## Working papers
-- Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China, (with Tingting Xie) ***revise and resubmit***, ***Journal of Environmental Economics and Management***.
+- Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China, (with Tingting Xie) ***2nd round R&R***, ***Journal of Environmental Economics and Management***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***revise and resubmit***, ***Environmental and Resource Economics***.
 - Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***revise and resubmit***, ***Journal of Development Economics***.
 - The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China, (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***revise and resubmit***, ***Journal of Comparative Economics***.
