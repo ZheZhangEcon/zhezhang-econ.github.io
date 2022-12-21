@@ -14,4 +14,6 @@ My research interest includes health economics, development economics, and envir
 
 Here is <a href="https://yuanye-econ.github.io/research/CV-YuanYe.pdf">my latest CV</a>.
 
-![Researcher Portrait](research/photo-github-round2.jpg "YUAN Ye")
+<!-- This line is commented out ![Researcher Portrait](research/photo-github-round2.jpg "YUAN Ye") -->
+
+<img src="research/photo-github-round2.jpg" width="25%" height="25%">
