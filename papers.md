@@ -7,6 +7,7 @@ layout: default
 
 My research interest is health economics, development economics, and environmental economics.
 
+&nbsp;
 ## Working papers
 - Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China, (with Tingting Xie), ***2nd round R&R***, ***Journal of Environmental Economics and Management***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***1st round R&R***, ***Environmental and Resource Economics***.
@@ -17,14 +18,14 @@ My research interest is health economics, development economics, and environment
 - Polluted games, (with Jiawei Mo and Zenan Wu), under review.
 - A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
 
-
+&nbsp;
 ## Working in Progress
 
 - Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu)
 - We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu)
 - Pay more for less: Effect of targeted lower cost sharing on healthcare utilization and expenditure (with Julie Shi and Wanyu Yang)
 
-
+&nbsp;
 ## Published papers
 
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
