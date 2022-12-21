@@ -5,7 +5,7 @@ date: 2022-09-10
 layout: default
 ---
 
-<img align="left" src="research/photo-github-round2.jpg" width="20%">
+<img src="research/photo-github-round2.jpg" width="20%"> 
 
 I am an assistant professor in the [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/).
 
