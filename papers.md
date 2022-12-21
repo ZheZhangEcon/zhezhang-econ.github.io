@@ -4,6 +4,7 @@ summary: "Research Agenda."
 date: 2022-12-22
 layout: default
 ---
+My research interest includes health economics, development economics, and environmental economics.
 
 ## Working papers
 - Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China, (with Tingting Xie), ***2nd round R&R***, ***Journal of Environmental Economics and Management***.
