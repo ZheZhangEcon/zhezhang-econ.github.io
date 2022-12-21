@@ -1,13 +1,10 @@
 ---
 title: "Research"
-summary: "I work on topics of health economics, development economics, and environmental economics."
-date: 2022-06-05
+summary: "Research Agenda."
+date: 2022-12-22
 layout: default
 ---
 
-My research interest is health economics, development economics, and environmental economics.
-
-&nbsp;
 ## Working papers
 - Unintended effects of environmental information on mental health: Evidence from air pollution disclosure in China, (with Tingting Xie), ***2nd round R&R***, ***Journal of Environmental Economics and Management***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***1st round R&R***, ***Environmental and Resource Economics***.
