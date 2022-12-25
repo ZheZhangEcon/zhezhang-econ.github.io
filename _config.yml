@@ -5,11 +5,6 @@ menu:
    url: /about
  - page: Research 
    url: /papers
-   links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
  - page: Curriculum Vitae
    url: "https://yuanye-econ.github.io/research/CV-YuanYe.pdf"
  - page: Teaching
