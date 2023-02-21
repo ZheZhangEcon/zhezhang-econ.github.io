@@ -19,9 +19,9 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Working in Progress
 
-- We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), preliminary draft ready, presenting.
-- Pay more for less: Effect of targeted lower cost sharing on healthcare utilization and expenditure (with Julie Shi and Wanyu Yang), preliminary draft ready, presenting.
-- Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), draft coming soon
+- We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), preliminary draft ready.
+- Pay more for less: Effect of targeted lower cost sharing on healthcare utilization and expenditure (with Julie Shi and Wanyu Yang), preliminary draft ready.
+- Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), preliminary draft ready.
 - Education and quality of life (with Kamhon Kan and Junjian Yi)
 
 &nbsp;
