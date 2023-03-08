@@ -12,7 +12,7 @@ My research interest includes health economics, development economics, and envir
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***1st round R&R, submitted***, ***Environmental and Resource Economics***.
 - The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China, (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***1st round R&R, submitted***, ***Journal of Comparative Economics***.
 - The consequences of health shocks on households: Evidence from China (with Zhenjie Jin and Yajie Wang), ***1st round R&R, submitted***, ***China Economics Review***.
-- The effect of information and streamlined appointment on patient sorting and hospital efficiency, (with Changcheng Song, Nan Yang and Junjian Yi), under review.
+- [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
 - Polluted games, (with Jiawei Mo and Zenan Wu), under review.
 - A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
 
