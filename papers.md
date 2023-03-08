@@ -19,7 +19,7 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Working in Progress
 
-- Cover more for less: Effect of Targeted Cost Sharing on Health Care Utilization and Expenditure (with Julie Shi and Wanyu Yang), first draft ready.
+- Cover more for less: Effect of targeted cost sharing on health care utilization and expenditure (with Julie Shi and Wanyu Yang), first draft ready.
 - We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), preliminary draft ready.
 - Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), preliminary draft ready.
 - Education and quality of life (with Kamhon Kan and Junjian Yi)
