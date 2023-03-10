@@ -34,4 +34,12 @@ My research interest includes health economics, development economics, and envir
 (with Yi Fan, Junjian Yi, and Junsen Zhang), ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260.
 - [The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China](https://www.sciencedirect.com/science/article/pii/S1043951X15001145), (with Wei Ha, Junjian Yi, and Junsen Zhang), ***China Economic Review***, 2016, Volume 37, pp 27-39.
 
+&nbsp;
+## Conference presentations
 
+- 15th iHEA World Congress on Health Economics, July 2023, Cape Town, South Africa
+- The Asian Meeting of the Econometric Society (AMES 2022), June 2022, Shenzhen, China
+- AASLE 2021 Conference, December 2021, Beijing, China 
+- 14th iHEA World Congress on Health Economics, July 2021, Online
+- The Lancet-CAMS Health Summit, October 2019, Sichuan, China
+- 13th iHEA World Congress on Health Economics, July 2019, Basel, Switzerland
