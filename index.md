@@ -16,5 +16,5 @@ I am an assistant professor at the School of Economics in Peking University. If 
 
 ## Updates
 
-- In July, 2022, my joint work with Yumeng Ao, Chao Yang, et al., titled ["Cost-effectiveness of medical migration for chronic kidney disease: A national study in China"](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-08266-x), is published at ***BMC Health Service Research***.
+- In March, 2023, my joint work with Yajie Wang and Zhenjie Jin, titled "The consequences of health shocks on households: Evidence from China" is accepted by ***China Rconomic Review***.
 
