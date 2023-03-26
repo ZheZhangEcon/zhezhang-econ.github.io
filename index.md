@@ -16,5 +16,5 @@ I am an assistant professor at the School of Economics in Peking University. If 
 
 ## Updates
 
-- In March, 2023, my joint work with Yajie Wang and Zhenjie Jin, titled "The consequences of health shocks on households: Evidence from China" is accepted by ***China Rconomic Review***.
+- In March, 2023, my joint work with Yajie Wang and Zhenjie Jin, titled "The consequences of health shocks on households: Evidence from China" is accepted by ***China Economic Review***.
 
