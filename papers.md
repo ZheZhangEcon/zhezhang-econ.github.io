@@ -11,7 +11,6 @@ My research interest includes health economics, development economics, and envir
 - Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***1st round R&R, received***, ***Journal of Development Economics***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***1st round R&R, submitted***, ***Environmental and Resource Economics***.
 - The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China, (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***1st round R&R, submitted***, ***Journal of Comparative Economics***.
-- [The consequences of health shocks on households: Evidence from China](https://www.researchgate.net/publication/369540066_The_Consequences_of_Health_Shocks_on_Households_Evidence_from_China) (with Zhenjie Jin and Yajie Wang), ***accepted***, ***China Economics Review***.
 - [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
 - [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
 - A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
@@ -26,8 +25,9 @@ My research interest includes health economics, development economics, and envir
 - Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi)
 
 &nbsp;
-## Published papers
+## Publications and Forthcomings
 
+- [The consequences of health shocks on households: Evidence from China](https://www.researchgate.net/publication/369540066_The_Consequences_of_Health_Shocks_on_Households_Evidence_from_China) (with Zhenjie Jin and Yajie Wang), forthcoming, ***China Economics Review***.
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
 - [Differential responses to market competition by private and public hospitals in China: a longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0140673619323736), (with Junjian Yi, and Shaoyang Zhao), ***The Lancet***, 2019 (394): S37.
 - [The glorified mothers of sons: Evidence from sexcomposition and parental time allocation in rural China](https://www.sciencedirect.com/science/article/pii/S0167268117303165),
