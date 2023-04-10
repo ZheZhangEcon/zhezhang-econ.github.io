@@ -27,7 +27,7 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Publications and Forthcomings
 
-- [The consequences of health shocks on households: Evidence from China](https://www.researchgate.net/publication/369540066_The_Consequences_of_Health_Shocks_on_Households_Evidence_from_China) (with Zhenjie Jin and Yajie Wang), forthcoming, ***China Economics Review***.
+- [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economics Review***, (2023): 101969
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
 - [Differential responses to market competition by private and public hospitals in China: a longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0140673619323736), (with Junjian Yi, and Shaoyang Zhao), ***The Lancet***, 2019 (394): S37.
 - [The glorified mothers of sons: Evidence from sexcomposition and parental time allocation in rural China](https://www.sciencedirect.com/science/article/pii/S0167268117303165),
