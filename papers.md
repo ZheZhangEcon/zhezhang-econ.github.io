@@ -25,7 +25,7 @@ My research interest includes health economics, development economics, and envir
 - Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi)
 
 &nbsp;
-## Publications and Forthcomings
+## Publications & Forthcomings
 
 - [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economics Review***, (2023): 101969
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
