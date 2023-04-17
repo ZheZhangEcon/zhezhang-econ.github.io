@@ -15,14 +15,15 @@ My research interest includes health economics, development economics, and envir
 - [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
 - A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
 - We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), under review.
+- Cover more for less: The effect of chronic disease coverage on health care utilization (with Julie Shi and Wanyu Yang), under review.
 
 &nbsp;
 ## Working in Progress
 
-- Cover more for less: Effect of targeted cost sharing on health care utilization and expenditure (with Julie Shi and Wanyu Yang), first draft ready.
 - Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), preliminary draft ready.
 - Education and quality of life (with Kamhon Kan and Junjian Yi)
 - Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi)
+- Distributional effect of health insurance on chronic disease: Evidence of hypertension in rural China (with Shaoying Guo)
 
 &nbsp;
 ## Publications & Forthcomings
