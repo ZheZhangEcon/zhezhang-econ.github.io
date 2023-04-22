@@ -38,6 +38,7 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Conference presentations
 
+- 2023 Asian Meeting of the Econometric Society, July 2023, Singapore
 - 15th iHEA World Congress on Health Economics, July 2023, Cape Town, South Africa
 - The Asian Meeting of the Econometric Society (AMES 2022), June 2022, Shenzhen, China
 - AASLE 2021 Conference, December 2021, Beijing, China 
