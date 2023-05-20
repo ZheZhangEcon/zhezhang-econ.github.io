@@ -7,7 +7,7 @@ layout: default
 My research interest includes health economics, development economics, and environmental economics.
 
 ## Working papers
-- Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China, (with Tingting Xie and Hui Zhang), accepted, ***2nd round R&R, submitted***.
+- Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China, (with Tingting Xie and Hui Zhang), ***2nd round R&R, submitted***.
 - Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***1st round R&R, received***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R, received***.
 - The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China, (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), ***1st round R&R, submitted***.
