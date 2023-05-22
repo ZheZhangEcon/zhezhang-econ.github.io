@@ -7,7 +7,6 @@ layout: default
 My research interest includes health economics, development economics, and environmental economics.
 
 ## Working papers
-- Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China, (with Tingting Xie and Hui Zhang), ***2nd round R&R, submitted***.
 - Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***1st round R&R, received***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R, received***.
 - [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
@@ -27,6 +26,7 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Publications & Forthcomings
 
+- Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China, (with Tingting Xie and Hui Zhang), forthcoming, ***JEEM***.
 - The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China, (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
 - [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
