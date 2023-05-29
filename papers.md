@@ -11,13 +11,13 @@ My research interest includes health economics, development economics, and envir
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R, received***.
 - [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
 - [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
-- A pandemic's long shadow: The impact of early childhood SARS experience on adulthood mental health, (with Litian Chen and Chao Yang), under review.
 - We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), under review.
 - Cover more for less: The effect of chronic disease coverage on health care utilization (with Julie Shi and Wanyu Yang), under review.
 
 &nbsp;
 ## Working in Progress
 
+- A pandemic's long shadow: The impact of early childhood pandemic experience on personality formation and long-term mental health, (with Litian Chen), preliminary draft ready.
 - Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), preliminary draft ready.
 - Education and quality of life (with Kamhon Kan and Junjian Yi)
 - Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi)
