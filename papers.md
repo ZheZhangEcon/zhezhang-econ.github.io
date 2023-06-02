@@ -26,7 +26,7 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Publications & Forthcomings
 
-- Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China, (with Tingting Xie and Hui Zhang), forthcoming, ***JEEM***.
+- [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***JEEM***, 2023, (120): 102827
 - The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China, (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
 - [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
 - [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
