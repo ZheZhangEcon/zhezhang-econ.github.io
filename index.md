@@ -16,6 +16,4 @@ I am an assistant professor at the School of Economics in Peking University. If 
 
 ## Updates
 
-- In June, 2023, my joint work with Tingting Xie and Hui Zhang, titled [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), is published in ***Journal of Environmental Economics and Management***.
-- In April, 2023, my joint work with Yajie Wang and Zhenjie Jin, titled ["The consequences of health shocks on households: Evidence from China"](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?dgcid=author) is published in ***China Economic Review***.
-
+- In June, 2023, my joint work with Gordon Liu, Junjian Yi, and Shaoyang Zhao, titled [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), is published in ***Journal of Comparative Economics***.
