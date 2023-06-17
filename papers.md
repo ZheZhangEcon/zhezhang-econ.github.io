@@ -7,10 +7,10 @@ layout: default
 My research interest includes health economics, development economics, and environmental economics.
 
 ## Working papers
-- Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***1st round R&R, received***.
-- Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R, received***.
+- Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***1st round R&R***.
+- Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R***.
 - [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
-- [Polluted games](https://www.researchgate.net/publication/360016831_Polluted_Games), (with Jiawei Mo and Zenan Wu), under review.
+- Air Pollution kills competition: Evidence from ESports, (with Jiawei Mo and Zenan Wu), under review.
 - We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), under review.
 - Cover more for less: The effect of chronic disease coverage on health care utilization (with Julie Shi and Wanyu Yang), under review.
 
