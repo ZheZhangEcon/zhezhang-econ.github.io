@@ -7,7 +7,6 @@ layout: default
 My research interest includes health economics, development economics, and environmental economics.
 
 ## Working papers
-- Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin),  ***1st round R&R***.
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R***.
 - [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
 - Air Pollution kills competition: Evidence from ESports, (with Jiawei Mo and Zenan Wu), under review.
@@ -21,11 +20,13 @@ My research interest includes health economics, development economics, and envir
 - Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), preliminary draft ready.
 - Education and quality of life (with Kamhon Kan and Junjian Yi)
 - Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi)
+- Learning by managing chronic conditions: Evidence from physician as patient (with Yajie Wang, Kamhon Kan, and Junjian Yi)
 - Distributional effect of health insurance on chronic disease: Evidence of hypertension in rural China (with Shaoying Guo)
+- The power of social insurance on agricultural productivity (with Qunfeng Wu)
 
 &nbsp;
 ## Publications & Forthcomings
-
+- Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin), accepted,  ***Journal of Development Economics***.
 - [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***Journal of Environmental Economics and Management***, 2023, (120): 102827
 - [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
 - [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
