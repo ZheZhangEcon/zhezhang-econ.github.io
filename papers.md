@@ -26,7 +26,7 @@ My research interest includes health economics, development economics, and envir
 
 &nbsp;
 ## Publications & Forthcomings
-- Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie and Zhilong Qin), accepted,  ***Journal of Development Economics***.
+- Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie), accepted,  ***Journal of Development Economics***.
 - [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***Journal of Environmental Economics and Management***, 2023, (120): 102827
 - [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
 - [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
