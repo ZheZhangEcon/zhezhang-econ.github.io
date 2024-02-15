@@ -35,7 +35,9 @@ My research interest includes health economics, development economics, and envir
 
 &nbsp;
 ## Publications & Forthcomings
-<!-- - Go with the wind: Spatial impacts of environmental regulations on industrial activities in China, (with Tingting Xie), accepted,  ***Journal of Development Economics***. -->
+- [https://www.nature.com/articles/s41598-023-49970-w](Early childhood SARS experience leads to long-lasting impacts on adulthood mental health in China), (with Litian Chen, Chao Yang, and Tingting Xie), 2023, 13: 22572, ***Scientific Reports***.
+- [https://www.sciencedirect.com/science/article/pii/S0095069623001043](Air pollution kills competition: Evidence from ESports) (with Jiawei Mo and Zenan Wu), 2023, (122): 102886, ***Journal of Environmental Economics and Management***.
+- [https://www.sciencedirect.com/science/article/pii/S0304387823000949?dgcid=coauthor](Go with the wind: Spatial impacts of environmental regulations on economic activities in China) (with Tingting Xie), 2023 (164): 103139, ***Journal of Development Economics***.
 - [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***Journal of Environmental Economics and Management***, 2023, (120): 102827
 - [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
 - [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
