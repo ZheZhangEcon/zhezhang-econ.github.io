@@ -35,17 +35,17 @@ My research interest includes health economics, development economics, and envir
 
 &nbsp;
 ## Publications & Forthcomings
-- [https://www.nature.com/articles/s41598-023-49970-w](Early childhood SARS experience leads to long-lasting impacts on adulthood mental health in China), (with Litian Chen, Chao Yang, and Tingting Xie), 2023, 13: 22572, ***Scientific Reports***.
-- [https://www.sciencedirect.com/science/article/pii/S0095069623001043](Air pollution kills competition: Evidence from ESports) (with Jiawei Mo and Zenan Wu), 2023, (122): 102886, ***Journal of Environmental Economics and Management***.
-- [https://www.sciencedirect.com/science/article/pii/S0304387823000949?dgcid=coauthor](Go with the wind: Spatial impacts of environmental regulations on economic activities in China) (with Tingting Xie), 2023 (164): 103139, ***Journal of Development Economics***.
-- [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***Journal of Environmental Economics and Management***, 2023, (120): 102827
-- [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
-- [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
-- [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
-- [Differential responses to market competition by private and public hospitals in China: a longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0140673619323736), (with Junjian Yi, and Shaoyang Zhao), ***The Lancet***, 2019 (394): S37.
-- [The glorified mothers of sons: Evidence from sexcomposition and parental time allocation in rural China](https://www.sciencedirect.com/science/article/pii/S0167268117303165),
+1. [https://www.nature.com/articles/s41598-023-49970-w](Early childhood SARS experience leads to long-lasting impacts on adulthood mental health in China), (with Litian Chen, Chao Yang, and Tingting Xie), 2023, 13: 22572, ***Scientific Reports***.
+1. [https://www.sciencedirect.com/science/article/pii/S0095069623001043](Air pollution kills competition: Evidence from ESports) (with Jiawei Mo and Zenan Wu), 2023, (122): 102886, ***Journal of Environmental Economics and Management***.
+1. [https://www.sciencedirect.com/science/article/pii/S0304387823000949?dgcid=coauthor](Go with the wind: Spatial impacts of environmental regulations on economic activities in China) (with Tingting Xie), 2023 (164): 103139, ***Journal of Development Economics***.
+1. [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***Journal of Environmental Economics and Management***, 2023, (120): 102827
+1. [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
+1. [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
+1. [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.), ***BMC Health Service Research***, (2022) 22:912.
+1. [Differential responses to market competition by private and public hospitals in China: a longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0140673619323736), (with Junjian Yi, and Shaoyang Zhao), ***The Lancet***, 2019 (394): S37.
+1. [The glorified mothers of sons: Evidence from sex composition and parental time allocation in rural China](https://www.sciencedirect.com/science/article/pii/S0167268117303165),
 (with Yi Fan, Junjian Yi, and Junsen Zhang), ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260.
-- [The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China](https://www.sciencedirect.com/science/article/pii/S1043951X15001145), (with Wei Ha, Junjian Yi, and Junsen Zhang), ***China Economic Review***, 2016, Volume 37, pp 27-39.
+1. [The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China](https://www.sciencedirect.com/science/article/pii/S1043951X15001145), (with Wei Ha, Junjian Yi, and Junsen Zhang), ***China Economic Review***, 2016, Volume 37, pp 27-39.
 
 &nbsp;
 ## Conference presentations
