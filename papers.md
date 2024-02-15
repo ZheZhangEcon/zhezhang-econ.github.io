@@ -7,22 +7,31 @@ layout: default
 My research interest includes health economics, development economics, and environmental economics.
 
 ## Working papers
-- Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities, (with Tingting Xie and Yong Wang), ***2nd round R&R***.
-- [The effect of information and streamlined appointment on patient sorting and hospital efficiency](https://www.researchgate.net/publication/369071342_The_Effect_of_Information_and_Streamlined_Appointment_on_Patient_Sorting_and_Hospital_Efficiency), (with Changcheng Song, Nan Yang and Junjian Yi), under review.
-- Air Pollution kills competition: Evidence from ESports, (with Jiawei Mo and Zenan Wu), under review.
-- We’ve got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), under review.
-- Cover more for less: The effect of chronic disease coverage on health care utilization (with Julie Shi and Wanyu Yang), under review.
+- Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities (with Tingting Xie and Yong Wang), 3rd **R&R** at \textit{Environmental and Resource Economics}, submitted, 31 Jan 2024.
+- Love, health and robots: Automation, Migration, and Family Responses in Rural China (with Yaojing Wang and Ruini Zhu), 1st **R&R** at ***China Economic Review***, received, 2 Jan 2024, planned resubmission in 24 Feb 2024.
+- We've got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), 1st **R&R** at ***Journal of Public Economics***, received, 3 Jan 2024.
+- Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), **R&R** at ***Journal of Development Economics***, 8 Jan 2024.
+- The quiet revolution: The send-down movement and female empowerment in rural China, (with Wenyi Lu and Chong Liu), **under review** at ***Journal of Development Economics***, 27 Jan 2024.
+- Impacts of prolonged exposure to air pollution on quality of life, (with Runhao Zhao, Chong Liu, and Junjian Yi), **under review** at ***PNAS***, 7 Feb 2024.
+- The effect of information and streamlined appointment on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang and Junjian Yi), **submitted** to ***Journal of Health Economics***, 2 Feb 2024.
+- Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi), **submitted** to ***The Lancet***, 3 Feb 2024.
+- Pandemic awakens health risk awareness: Evidence from online insurance platform (with Jiawei Mo, Ruo Jia, Chang Zhang), in progress, about to finish the first draft, planned submission in mid-March.
+- Keeping up with the Joneses: The effect of FDI on industrial pollution emissions in China (with Jiawei Mo and Zhe Zhang), in progress, baseline results nearly complete, planned submission in late March.
 
 &nbsp;
 ## Working in Progress
 
-- A pandemic's long shadow: The impact of early childhood pandemic experience on personality formation and long-term mental health, (with Litian Chen), preliminary draft ready.
-- Long-term exposure to fine particulate matters and multiple chronic conditions, (with Runhao Zhao and Chong Liu), preliminary draft ready.
-- Education and quality of life (with Kamhon Kan and Junjian Yi)
-- Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi)
-- Learning by managing chronic conditions: Evidence from physician as patient (with Yajie Wang, Kamhon Kan, and Junjian Yi)
-- Distributional effect of health insurance on chronic disease: Evidence of hypertension in rural China (with Shaoying Guo)
-- The power of social insurance on agricultural productivity (with Qunfeng Wu)
+- You've heard it! Effect of media access on policy effectiveness in China (with Fan Zhang), in progress, baseline results nearly complete.
+- When precision matters: Effects of targeted poverty alleviation on household's economic and social well-beings in China (with Jia Wang), in progress, half-way in first draft.           .
+- Intergenerational effect of public education program: Evidence from China's Compulsory Education Law (with Caineng Chen), in progress, half-way in first draft.
+- Education and quality of life (with Kamhon Kan and Junjian Yi), in progress, half-way in baseline results.
+- So covered yet so far: Distributional effect of public insurance coverage on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress, Zenan joined to build a model, 18 Jan 2024.
+- Insured and empowered: The effect of social insurance on agricultural productivity (with Qunfeng Wu), in progress, some baseline results.
+- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress, half-way in baseline results.
+- Quantitative assessment of pandemic control policies in China (with Bo Li and Ke Dong), in progress, early draft ready.
+- No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress, some basic results.
+- Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress, some basic results. 
+- Global budget, provider financial incentives, and low-value care: Evidence from hysterectomy (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress, just started.
 
 &nbsp;
 ## Publications & Forthcomings
