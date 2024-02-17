@@ -14,30 +14,31 @@ My research interest includes health economics, development economics, and envir
 - The quiet revolution: The send-down movement and female empowerment in rural China, (with Wenyi Lu and Chong Liu), **under review** at ***Journal of Development Economics***, 27 Jan 2024.
 - Impacts of prolonged exposure to air pollution on quality of life, (with Runhao Zhao, Chong Liu, and Junjian Yi), **under review** at ***PNAS***, 7 Feb 2024.
 - The effect of information and streamlined appointment on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang and Junjian Yi), **submitted** to ***Journal of Health Economics***, 2 Feb 2024.
-- Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi), **submitted** to ***The Lancet***, 3 Feb 2024.
-- Pandemic awakens health risk awareness: Evidence from online insurance platform (with Jiawei Mo, Ruo Jia, Chang Zhang), in progress, about to finish the first draft, planned submission in mid-March.
-- Keeping up with the Joneses: The effect of FDI on industrial pollution emissions in China (with Jiawei Mo and Zhe Zhang), in progress, baseline results nearly complete, planned submission in late March.
+- Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi), **submitted** to ***The Lancet Regional Health - Western Pacific***, 17 Feb 2024.
+
 
 &nbsp;
 ## Working in Progress
 
-- You've heard it! Effect of media access on policy effectiveness in China (with Fan Zhang), in progress, baseline results nearly complete.
-- When precision matters: Effects of targeted poverty alleviation on household's economic and social well-beings in China (with Jia Wang), in progress, half-way in first draft.           .
-- Intergenerational effect of public education program: Evidence from China's Compulsory Education Law (with Caineng Chen), in progress, half-way in first draft.
-- Education and quality of life (with Kamhon Kan and Junjian Yi), in progress, half-way in baseline results.
-- So covered yet so far: Distributional effect of public insurance coverage on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress, Zenan joined to build a model, 18 Jan 2024.
-- Insured and empowered: The effect of social insurance on agricultural productivity (with Qunfeng Wu), in progress, some baseline results.
-- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress, half-way in baseline results.
-- Quantitative assessment of pandemic control policies in China (with Bo Li and Ke Dong), in progress, early draft ready.
-- No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress, some basic results.
-- Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress, some basic results. 
-- Global budget, provider financial incentives, and low-value care: Evidence from hysterectomy (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress, just started.
+- Pandemic awakens health risk awareness: Evidence from online insurance platform (with Jiawei Mo, Ruo Jia, Chang Zhang), in progress.
+- Keeping up with the Joneses: The effect of FDI on industrial pollution emissions in China (with Jiawei Mo and Zhe Zhang), in progress.
+- You've heard it! Effect of media access on policy effectiveness in China (with Fan Zhang), in progress.
+- When precision matters: Effects of targeted poverty alleviation on household's economic and social well-beings in China (with Jia Wang), in progress.          
+- Intergenerational effect of public education program: Evidence from China's Compulsory Education Law (with Caineng Chen), in progress.
+- Education and quality of life (with Kamhon Kan and Junjian Yi), in progress.
+- So covered yet so far: Distributional effect of public insurance coverage on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress.
+- Insured and empowered: The effect of social insurance on agricultural productivity (with Qunfeng Wu), in progress.
+- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress。
+- Quantitative assessment of pandemic control policies in China (with Bo Li and Ke Dong), in progress.
+- No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
+- Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress。
+- Global budget, provider financial incentives, and low-value care: Evidence from hysterectomy (with Yajie Wang, Kamhon Kan, and Junjian Yi), just started.
 
 &nbsp;
 ## Publications & Forthcomings
-1. [https://www.nature.com/articles/s41598-023-49970-w](Early childhood SARS experience leads to long-lasting impacts on adulthood mental health in China), (with Litian Chen, Chao Yang, and Tingting Xie), 2023, 13: 22572, ***Scientific Reports***.
-1. [https://www.sciencedirect.com/science/article/pii/S0095069623001043](Air pollution kills competition: Evidence from ESports) (with Jiawei Mo and Zenan Wu), 2023, (122): 102886, ***Journal of Environmental Economics and Management***.
-1. [https://www.sciencedirect.com/science/article/pii/S0304387823000949?dgcid=coauthor](Go with the wind: Spatial impacts of environmental regulations on economic activities in China) (with Tingting Xie), 2023 (164): 103139, ***Journal of Development Economics***.
+1. [Early childhood SARS experience leads to long-lasting impacts on adulthood mental health in China](https://www.nature.com/articles/s41598-023-49970-w), (with Litian Chen, Chao Yang, and Tingting Xie), 2023, 13: 22572, ***Scientific Reports***.
+1. [Air pollution kills competition: Evidence from ESports](https://www.sciencedirect.com/science/article/pii/S0095069623001043) (with Jiawei Mo and Zenan Wu), 2023, (122): 102886, ***Journal of Environmental Economics and Management***.
+1. [Go with the wind: Spatial impacts of environmental regulations on economic activities in China](https://www.sciencedirect.com/science/article/pii/S0304387823000949?dgcid=coauthor) (with Tingting Xie), 2023 (164): 103139, ***Journal of Development Economics***.
 1. [Information, Awareness, and Mental Health: Evidence from Pollution Disclosure in China](https://doi.org/10.1016/j.jeem.2023.102827), (with Tingting Xie and Hui Zhang), ***Journal of Environmental Economics and Management***, 2023, (120): 102827
 1. [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), (with Gordon Liu, Junjian Yi, and Shaoyang Zhao), forthcoming, ***Journal of Comparative Economics***.
 1. [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang), ***China Economic Review***, (2023): 101969
