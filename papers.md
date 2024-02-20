@@ -10,7 +10,7 @@ My research interest includes health economics, development economics, and envir
 - Health benefits from improved air quality: Evidence from the pollution regulations in China’s “2+26” cities (with Tingting Xie and Yong Wang), 3rd **R&R** at \textit{Environmental and Resource Economics}, submitted, 31 Jan 2024.
 - Love, health and robots: Automation, Migration, and Family Responses in Rural China (with Yaojing Wang and Ruini Zhu), 1st **R&R** at ***China Economic Review***, received, 2 Jan 2024, planned resubmission in 24 Feb 2024.
 - We've got you covered! The effect of public health insurance on rural entrepreneurship, (with Zhenggang Wang and Zenan Wu), 1st **R&R** at ***Journal of Public Economics***, received, 3 Jan 2024.
-- Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), **R&R** at ***Journal of Development Economics***, 8 Jan 2024.
+- Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), 1st **R&R** at ***Journal of Development Economics***, received， 20 Jan 2024.
 - The quiet revolution: The send-down movement and female empowerment in rural China, (with Wenyi Lu and Chong Liu), **under review** at ***Journal of Development Economics***, 27 Jan 2024.
 - Impacts of prolonged exposure to air pollution on quality of life, (with Runhao Zhao, Chong Liu, and Junjian Yi), **under review** at ***PNAS***, 7 Feb 2024.
 - The effect of information and streamlined appointment on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang and Junjian Yi), **submitted** to ***Journal of Health Economics***, 2 Feb 2024.
