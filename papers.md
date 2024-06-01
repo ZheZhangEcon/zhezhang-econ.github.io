@@ -24,10 +24,9 @@ My research interest includes health economics, development economics, and envir
 - When precision matters: Effects of targeted poverty alleviation on household's economic and social well-being in China (with Jia Wang), in progress.          
 - Intergenerational effect of public education program: Evidence from China's Compulsory Education Law (with Caineng Chen), in progress.
 - Education and quality of life (with Kamhon Kan and Junjian Yi), in progress.
-- So covered yet so far: Distributional effect of public insurance coverage on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress.
+- So covered yet so far: Distributional effect of public insurance on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress.
 - Insured and empowered: The effect of social insurance on agricultural productivity (with Qunfeng Wu), in progress.
-- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress。
-- Quantitative assessment of pandemic control policies in China (with Bo Li and Ke Dong), in progress.
+- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress.
 - No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
 - Learning to heal: Patient learning and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
 - Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress。
@@ -53,7 +52,7 @@ My research interest includes health economics, development economics, and envir
 &nbsp;
 ## Conference presentations
 
-- 2024 China Meeting of the Econometric Society, June 2023, Hangzhou, China
+- 2024 China Meeting of the Econometric Society, June 2024, Hangzhou, China
 - 2023 Asian Meeting of the Econometric Society, July 2023, Singapore
 - 15th iHEA World Congress on Health Economics, July 2023, Cape Town, South Africa
 - 2022 Asian Meeting of the Econometric Society, June 2022, Shenzhen, China
