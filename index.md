@@ -10,10 +10,10 @@ layout: default
 I am an assistant professor at the School of Economics in Peking University. If you need to reach me, please email me at yuanye.econ at pku dot edu dot cn.
 
 ## Research interest
-- Health economics
-- Development economics
-- Environmental economics
+- Development Economics
+- Health Economics
+- Environmental Economics
 
 ## Updates
 
-- In June, 2023, my joint work with Gordon Liu, Junjian Yi, and Shaoyang Zhao, titled [The short- and long-run effects of medical malpractice lawsuits on medical spending and hospital operations in China](https://authors.elsevier.com/a/1hFH1XZqAFfIl), is published in ***Journal of Comparative Economics***.
+- In June 2024, my joint work with Zhenggang Wang and Zenan Wu, titled [We've got you covered! The effect of public health insurance on rural entrepreneurship](https://authors.elsevier.com/a/1jAqAAlw9w-1S), is published in ***Journal of Public Economics***.
