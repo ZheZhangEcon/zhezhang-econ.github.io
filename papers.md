@@ -29,6 +29,7 @@ My research interest includes health economics, development economics, and envir
 - A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress。
 - Quantitative assessment of pandemic control policies in China (with Bo Li and Ke Dong), in progress.
 - No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
+- Learning to heal: Patient learning and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
 - Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress。
 - Global budget, provider financial incentives, and low-value care: Evidence from hysterectomy (with Yajie Wang, Kamhon Kan, and Junjian Yi), just started.
 
