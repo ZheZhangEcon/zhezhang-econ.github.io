@@ -10,6 +10,7 @@ My research interest includes health economics, development economics, and envir
 
 - The quiet revolution: The send-down movement and female empowerment in rural China (with Wenyi Lu and Chong Liu), 1st **R&R** at ***Journal of Development Economics***, received, 4 May 2024.
 - Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), 1st **R&R** at ***Journal of Development Economics***, received, 20 Feb 2024.
+- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), under review.
 - Impacts of prolonged exposure to air pollution on quality of life (with Runhao Zhao, Chong Liu, and Junjian Yi).
 - The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi).
 - Physician as chronic-disease patient: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi).
@@ -26,7 +27,6 @@ My research interest includes health economics, development economics, and envir
 - Education and quality of life (with Kamhon Kan and Junjian Yi), in progress.
 - So covered yet so far: Distributional effect of public insurance on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress.
 - Insured and empowered: The effect of social insurance on agricultural productivity (with Qunfeng Wu), in progress.
-- A farmer's odyssey in environmental adversity: Air pollution and agricultural productivity in rural China (with Qunfeng Wu and Yakun Chen), in progress.
 - No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
 - Learning to heal: Patient learning and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
 - Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress。
