@@ -12,26 +12,24 @@ My research interest includes health economics, development economics, and envir
 - Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), 1st **R&R** at ***Journal of Development Economics***, received, 20 Feb 2024.
 - The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，1st **R&R** at ***Journal of Industrial Economics***, received, 2 July 2024.
 - A farmer's odyssey in environmental adversity: Air pollution and rural agriculture in China (with Qunfeng Wu and Yakun Chen), under review.
-- Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), under review.
+- Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), submitted.
 
 
 
 &nbsp;
 ## Working in Progress
 
-- Prolonged exposure to air pollution and the quality of life (with Runhao Zhao, Chong Liu, and Junjian Yi).
-- The value of knowledge: Evidence from first-ever stroke (with Yajie Wang, Kamhon Kan, and Junjian Yi).
-- Pandemic awakens health risk awareness: Evidence from online insurance platform (with Jiawei Mo, Ruo Jia, Chang Zhang).
-- You've heard it! Effect of media access on policy effectiveness in China (with Fan Zhang), in progress.
-- When precision matters: Effects of targeted poverty alleviation on household's economic and social well-being in China (with Jia Wang), in progress.          
-- Intergenerational effect of public education program: Evidence from China's Compulsory Education Law (with Caineng Chen), in progress.
-- Education and quality of life (with Kamhon Kan and Junjian Yi), in progress.
-- So covered yet so far: Distributional effect of public insurance on chronic disease prevalence in rural China (with Shaoying Guo and Zenan Wu), in progress.
-- Insured and empowered: The effect of social insurance on agricultural productivity (with Qunfeng Wu), in progress.
-- No pain, no gain: Symptoms salience and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
-- Learning to heal: Patient learning and chronic disease management (with Yajie Wang, Kamhon Kan, and Junjian Yi), in progress.
-- Rain, Rain, Go Away: Weather conditions and firm's polluting behaviors (with Runhao Zhao), in progress。
-- Global budget, provider financial incentives, and low-value care: Evidence from hysterectomy (with Yajie Wang, Kamhon Kan, and Junjian Yi), just started.
+- Air pollution and quality of life
+- Physician as patient
+- Attention and insurance
+- Media and policy
+- Poverty alleviation and social well-being       
+- Intergenerational effect of public education
+- Education and quality of life
+- Distributional effect of public insurance
+- Social insurance and agriculture
+- Learning in healthcare
+- Rain and strategic emissions
 
 &nbsp;
 ## Publications & Forthcomings
