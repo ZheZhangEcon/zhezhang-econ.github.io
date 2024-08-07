@@ -1,7 +1,7 @@
 ---
 title: "Research"
-summary: "Research Agenda."
-date: 2022-12-22
+summary: "Research Summary."
+date: 2024-08-05
 layout: default
 ---
 My research interest includes health economics, development economics, and environmental economics.
