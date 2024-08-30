@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Brief Intro and Updates."
-date: 2024-06-30
+date: 2024-08-30
 layout: default
 ---
 
