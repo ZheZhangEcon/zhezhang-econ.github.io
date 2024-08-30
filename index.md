@@ -5,15 +5,15 @@ date: 2024-06-30
 layout: default
 ---
 
-<img src="research/photo-github-round2.jpg" width="20%" >
+<img src="research/photo-github-round2.jpg" width="10%" >
 
-I am an assistant professor at the School of Economics at Peking University. If you need to reach me, please email me at yuanye.econ at pku dot edu dot cn.
+I am an P.H.D. student at the School of Economics in Peking University. If you need to reach me, please email me at [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
 
-## Research interest
-- Development Economics
-- Health Economics
-- Environmental Economics
+## Research Interest
+- International economics
+- Spatial economics
+- Environmental economics
 
 ## Updates
 
-- In June 2024, my joint work with Zhenggang Wang and Zenan Wu, titled [We've got you covered! The effect of public health insurance on rural entrepreneurship](https://authors.elsevier.com/a/1jAqAAlw9w-1S), is published in ***Journal of Public Economics***.
+- In August 2024, my joint work with Jiawei Mo, titled [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://www.sciencedirect.com/science/article/abs/pii/S0094119024000627), is published in ***Journal of Urban Economics***.
