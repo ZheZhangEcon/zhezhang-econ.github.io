@@ -2,10 +2,10 @@
 
 ![Researcher Portrait](research/photo-github-tiny.jpg "YUAN Ye")
 
-I am an assistant professor at the School of Economics in Peking University. If you need to reach me, please email me at yuanye.econ at pku dot edu dot cn.
+I am an P.H.D. student at the School of Economics in Peking University. If you need to reach me, please email me at [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
 
 ## Research interest
-- Health economics
-- Development economics
+- International economics
+- Spatial economics
 - Environmental economics
 
