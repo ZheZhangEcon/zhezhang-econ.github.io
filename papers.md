@@ -27,13 +27,13 @@ layout: default
 &nbsp;
 ## Conferences
 
-# 2024
+### 2024
 
 - The 10th International Symposium on Quantitative History, Shanghai Jiao Tong University, Shanghai
 - International Economics and Empirical IO Workshop in School of Economics, Peking University, Beijing
 
 
-# 2023
+### 2023
 - Chinese Economists Society (CES) Annual Conference, Zhongnan University of Economics and Law, Wuhan
 - 2023 Junior Workshop on International Economics, NanKai University, Tianjin
 - Workshop for Young Scholars, School of International Trade and Economics, Central University of Finance and Economics (CUFE), Beijing
