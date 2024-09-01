@@ -20,7 +20,7 @@ layout: default
 - Emission Effects of Infrastructure
 
 &nbsp;
-## Publications & Forthcomings
+## Publications
 1. [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://www.sciencedirect.com/science/article/abs/pii/S0094119024000627) (with Jiawei Mo), ***Journal of Urban Economics***, 2024, 143, 103692.
 
 
