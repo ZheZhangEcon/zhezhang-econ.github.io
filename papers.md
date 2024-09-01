@@ -7,15 +7,17 @@ layout: default
 
 ## Working Papers
 
-- The quiet revolution: The send-down movement and female empowerment in rural China (with Wenyi Lu and Chong Liu), 2nd **R&R** at ***Journal of Development Economics***, submitted, 13 August 2024.
-- Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), 1st **R&R** at ***Journal of Development Economics***, received, 20 Feb 2024.
-- Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), submitted.
+- Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Ye Yuan), submitted.
+- ``Steamships and Market Integration: Evidence from the Late Qing China'' (With Yu Hao and Zhiqiang Wang), 1nd **R&R** at ***Economic Science (经济科学)***.
+- ``Export and Insurance Premium: Evidence from China (With Chenbin Mao and Zhiqiang Wang), submitted.
+- Environmental Regulation, Domestic M\&As, and Pollution Transfer'' (With Jingbo Cui, Bingjie Wang, and Yan Zhang), under review at ***Journal of Economic Behavior & Organization***.
+
 
 &nbsp;
 ## Working in Progress
 
-- Air pollution and quality of life
-- Physician as patient
+- Migrants and firm entry
+- Emission Effects of Infrastructure
 
 &nbsp;
 ## Publications & Forthcomings
