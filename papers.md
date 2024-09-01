@@ -1,10 +1,9 @@
 ---
 title: "Research"
-summary: "Research Summary."
+summary: "Research Summary"
 date: 2024-09-01
 layout: default
 ---
-My research interest includes health economics, development economics, and environmental economics.
 
 ## Working Papers
 
