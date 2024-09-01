@@ -25,7 +25,7 @@ layout: default
 
 
 &nbsp;
-## Conference Presentations
+## Conferences
 
 # 2024
 
