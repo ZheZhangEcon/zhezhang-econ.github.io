@@ -6,7 +6,7 @@ menu:
  - page: Research 
    url: /papers
  - page: Curriculum Vitae
-   url: "https://zhezhang-econ.github.io/research/CV-ZHANGZhe.pdf"
+   url: "https://zhezhang-econ.github.io" <!--"https://zhezhang-econ.github.io/research/CV-ZHANGZhe.pdf"-->
  - page: Teaching
    url: /teaching
 menu_external:
