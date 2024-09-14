@@ -1,0 +1,21 @@
+name: ZHANG Zhe 
+description: Personal website
+menu:
+ - page: About me
+   url: /about
+ - page: Research 
+   url: /papers
+ - page: Curriculum Vitae
+   url: "https://zhezhang-econ.github.io/research/CV-ZHANGZhe.pdf"
+ - page: Teaching
+   url: /teaching
+menu_external:
+ - title: My University Page
+   url: "https://econ.pku.edu.cn/xspysy/jcqnx/zdbsx/zmjs_bs2/z12/index.htm"
+ - title: My Research Gate
+   url: "https://www.researchgate.net/profile/Zhe-Zhang-264"
+mathjax: false
+markdown: kramdown
+encoding: utf-8
+baseurl: 
+locale: en_GB
