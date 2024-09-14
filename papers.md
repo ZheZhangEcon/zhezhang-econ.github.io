@@ -8,7 +8,7 @@ layout: default
 ## Working Papers
 
 - Keeping Up with the Joneses: FDI Inflow and Local Industrial Emissions (with Jiawei Mo and Ye Yuan), submitted.
-- Steamships and Market Integration: Evidence from the Late Qing China (With Yu Hao and Zhiqiang Wang), 1nd **R&R** at ***Economic Science (经济科学)***.
+- Steamships and Market Integration: Evidence from the Late Qing China (With Yu Hao and Zhiqiang Wang), 1nd **R&R** at ***Economic Science (in Chinese 经济科学)***.
 - Export and Insurance Premium: Evidence from China (With Chenbin Mao and Zhiqiang Wang), submitted.
 - Environmental Regulation, Domestic M&As, and Pollution Transfer (With Jingbo Cui, Bingjie Wang, and Yan Zhang), under review at ***Journal of Economic Behavior & Organization***.
 
