@@ -10,14 +10,15 @@ layout: default
 - Keeping Up with the Joneses: FDI Inflow and Local Industrial Emissions (with Jiawei Mo and Ye Yuan), submitted.
 - Steamships and Market Integration: Evidence from the Late Qing China (With Yu Hao and Zhiqiang Wang), 1nd **R&R** at ***Economic Science (in Chinese 经济科学)***.
 - Export and Insurance Premium: Evidence from China (With Chenbin Mao and Zhiqiang Wang), submitted.
-- Environmental Regulation, Domestic M&As, and Pollution Transfer (With Jingbo Cui, Bingjie Wang, and Yan Zhang), under review at ***Journal of Economic Behavior & Organization***.
+- Migrants and New Firm Entries: Evidence from China (With Jiawei Mo and Zhiqiang Wang).
+- Intel's Impact: How A Superstar Firm Makes A Productive City (With Jiawei Mo, Tao Tao, and Hong Zhu).
 
 
 &nbsp;
 ## Working in Progress
 
-- Migrants and firm entry
-- Emission Effects of Infrastructure
+- FDI and productivity
+- Welfare effects of infrastructure
 
 &nbsp;
 ## Publications
