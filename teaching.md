@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 summary: "Teaching"
-date: 2024-09-01
+date: 2025-06-18
 layout: default
 ---
 
