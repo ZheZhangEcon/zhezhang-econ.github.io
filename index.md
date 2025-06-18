@@ -1,5 +1,4 @@
 ---
-title: "Zhe Zhang (张喆)"
 summary: "Brief Intro and Updates."
 date: 2025-06-11
 layout: default
@@ -7,6 +6,7 @@ layout: default
 
 <img src="research/photo-github-round2.jpg" width="20%" >
 
+-**Zhe Zhang (张喆)**
 - Ph.D. student
 - School of Economics, Peking University
 
