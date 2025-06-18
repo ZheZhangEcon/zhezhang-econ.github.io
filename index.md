@@ -1,4 +1,5 @@
 ---
+title: "About Me"
 summary: "Brief Intro and Updates."
 date: 2025-06-11
 layout: default
