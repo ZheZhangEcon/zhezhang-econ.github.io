@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 summary: "Brief Intro and Updates."
-date: 2025-06-11
+date: 2025-06-18
 layout: default
 ---
 
