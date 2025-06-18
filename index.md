@@ -6,7 +6,7 @@ layout: default
 
 <img src="research/photo-github-round2.jpg" width="15%" >
 
-- **ZHANG Zhe (张喆)**
+## ZHANG Zhe (张喆)
 - Ph.D. student
 - School of Economics, Peking University
 
