@@ -1,7 +1,7 @@
 ---
 title: "Research"
-summary: "Research Summary"
-date: 2025-03-25
+summary: "Research"
+date: 2025-06-18
 layout: default
 ---
 
