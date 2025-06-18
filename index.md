@@ -4,7 +4,7 @@ date: 2025-06-11
 layout: default
 ---
 
-<img src="research/photo-github-round2.jpg" width="20%" >
+<img src="research/photo-github-round2.jpg" width="15%" >
 
 - **ZHANG Zhe (张喆)**
 - Ph.D. student
