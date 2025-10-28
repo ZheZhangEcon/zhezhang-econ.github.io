@@ -11,7 +11,7 @@ layout: default
 - [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://doi.org/10.1016/j.jue.2024.103692) (Jiawei Mo\* and **Zhe Zhang**), ***Journal of Urban Economics***, 2024, 143, 103692.
 
 
-&nbsp;
+
 ## Conferences
 
 ### 2024
